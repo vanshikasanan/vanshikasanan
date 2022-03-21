@@ -1,5 +1,5 @@
 ### Hi there 👋, Vanshika Sanan here!
-<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="300px" height="300px" />
+<img align="right" src="https://raghav-goel.imgbb.com/" width="300px" height="300px" />
 - 🌱 I’m currently learning : React as frontend with Java backend.
 
  💻 Full stack Developer 
