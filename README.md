@@ -38,11 +38,10 @@
 <br/>
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikasanan&theme=radical)
-<br/>
+
 ## Git Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=radical)
 
-<br/>
                         
 
 
