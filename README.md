@@ -35,6 +35,11 @@
 <img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width=50px height=50px />     
 <img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width=50px height=50px/>
 
+## My Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikasanan&theme=radical)
+
+## Git Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=radical)
                         
                         
 
