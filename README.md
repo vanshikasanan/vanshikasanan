@@ -3,8 +3,6 @@
 - 🌱 Software Developer
  <br/>
  👨‍💻 Exploring and Implementing everyday...
-
-
 <br/>
 
 ## Let's Connect 
