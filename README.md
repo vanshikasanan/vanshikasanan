@@ -1,10 +1,8 @@
 ### Hi there 👋, Vanshika Sanan here!
 <img align="right" src="https://i.ibb.co/jkyc6kr/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-backg.png" width="300px" height="300px" />
-- 🌱 I’m currently learning : React as frontend with Java backend.
-
- 💻 Full stack Developer 
+- 🌱 Software Developer
  <br/>
- 👨‍💻 Improving and learning everyday...
+ 👨‍💻 Exploring and Implementing everyday...
 
 
 <br/>
