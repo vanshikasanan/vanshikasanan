@@ -1,5 +1,5 @@
 ### Hi there 👋, Vanshika Sanan here!
-<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" width="300px" height="300px" />
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" width="400px" height="300px" />
 - 🌱 Software Developer
  <br/>
  👨‍💻 Exploring and Implementing everyday...
