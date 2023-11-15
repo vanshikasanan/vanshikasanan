@@ -1,5 +1,5 @@
 ### Hi there 👋, Vanshika Sanan here!
-<img align="right" src="https://i.ibb.co/jkyc6kr/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-backg.png" width="300px" height="300px" />
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" width="300px" height="300px" />
 - 🌱 Software Developer
  <br/>
  👨‍💻 Exploring and Implementing everyday...
