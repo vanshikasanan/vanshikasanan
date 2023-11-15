@@ -21,6 +21,10 @@
 <br/>
 
 ## Languages and Tools
+
+
+            <img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width=50px height=50px />
+          
 <img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width=50px height=50px/> 
 
 <img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" width=50px height=50px/> 
