@@ -78,13 +78,10 @@ const vanshika = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikasanan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikasanan&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 📈 Contribution Graph
@@ -101,22 +98,10 @@ const vanshika = {
   <a href="https://github.com/vanshikasanan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/vanshika_sanan/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sanan.vanshika@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/vanshikasanan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
