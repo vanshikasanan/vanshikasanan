@@ -80,15 +80,10 @@ const vanshika = {
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=chalk" alt="Github Trophies" />
 </div>
 
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikasanan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🤝 Let's Connect!
 
