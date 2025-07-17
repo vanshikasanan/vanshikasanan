@@ -80,9 +80,9 @@ const vanshika = {
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 📈 Contribution Graph
 <div align="center">
