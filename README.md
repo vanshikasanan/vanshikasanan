@@ -1,57 +1,128 @@
-### Hi there 👋, Vanshika Sanan here!
-<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" width="400px" height="300px" />
-- 🌱 Software Developer
- <br/>
- 👨‍💻 Exploring and Implementing everyday...
-<br/>
+# Hi there, I'm Vanshika Sanan! 👋
 
-## Let's Connect 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Full+Stack+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
+</div>
 
-<a href=""><img align= "left" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width=50px height=50px/> </a>
-<a href="https://www.linkedin.com/in/vanshika-sanan-21a68b177/"><img align= "left" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width=50px height=50px/> </a>
-<a href="https://github.com/vanshikasanan"><img  align= "left" src="https://camo.githubusercontent.com/4133dc1cd4511d4a292b84ce10e52e4ed92569fb2a8165381c9c47be5edc2796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" width=50px height=50px/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshikasanan&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vanshikasanan?label=Followers&style=flat-square&color=6C63FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/vanshikasanan?label=Stars&style=flat-square&color=6C63FF" alt="GitHub stars" />
+</p>
 
-<a href="https://www.instagram.com/vanshika_sanan/?hl=en"><img align= "left" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width=50px height=50px/> </a>
+## 🚀 About Me
 
-<br/>
-<br/>
+```javascript
+const vanshika = {
+    role: "Software Developer",
+    location: "India",
+    currentFocus: "Full Stack Development",
+    languages: ["JavaScript", "Java", "HTML", "CSS"],
+    frameworks: ["React", "Next.js", "Vue.js", "Node.js"],
+    databases: ["MySQL"],
+    tools: ["Git", "Redux", "Tailwind CSS", "Material UI"],
+    motto: "Exploring and Implementing everyday..."
+};
+```
 
-## Languages and Tools
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" width="300px" height="225px" />
 
+### What I'm up to:
+- 🔭 Working on exciting web development projects
+- 🌱 Continuously learning new technologies
+- 💡 Exploring modern JavaScript frameworks
+- 🎯 Building responsive and user-friendly applications
+- 📚 Deepening my understanding of full-stack development
 
+## 🛠️ Tech Stack
 
- <img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width=50px height=50px/>         
- 
- <img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=50px height=50px/> 
- <img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width=50px height=50px/> 
-<img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width=50px height=50px/> 
-<img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  width=50px height=50px/> 
-<img align= "left"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   width=50px height=50px/> 
+<div align="center">
 
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" width=50px height=50px/> 
+### Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg" width=50px height=50px/> 
+### Styling & UI
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+</p>
 
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width=50px height=50px/> 
-<br/>
-<br/>
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" width=50px height=50px/>
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width=50px height=50px /> 
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width=50px height=50px/>
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width=50px height=50px />     
-<img align= "left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width=50px height=50px/>
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
+### Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-                        
+</div>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshikasanan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikasanan&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikasanan&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<br/>
-<br/>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-## My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikasanan&theme=radical)
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikasanan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
-## Git Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=vanshikasanan&theme=radical)
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vanshika-sanan-21a68b177/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vanshikasanan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/vanshika_sanan/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## 💝 Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/vanshikasanan">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  💜 Thanks for visiting my profile! Have a great day! 💜
+</div>
